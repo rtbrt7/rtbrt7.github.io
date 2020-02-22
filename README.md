@@ -1,1 +1,3 @@
-# Ritabrata Bose, Research Associate (Economics), IIMB
+rtbrt7.github.io
+
+Ritabrata Bose, Research Associate (Economics), IIMB

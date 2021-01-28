@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supply Chains | Ritabrata Bose</title>
+    <link>https://rtbrt7.github.io/tag/supply-chains/</link>
+      <atom:link href="https://rtbrt7.github.io/tag/supply-chains/index.xml" rel="self" type="application/rss+xml" />
+    <description>Supply Chains</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ritabrata Bose. All rights reserved.</copyright>
+    <image>
+      <url>https://rtbrt7.github.io/images/icon_hub4823ec27bc1bc411163cc9340aafb5f_11301_512x512_fill_lanczos_center_2.png</url>
+      <title>Supply Chains</title>
+      <link>https://rtbrt7.github.io/tag/supply-chains/</link>
+    </image>
+    
+    <item>
+      <title>Multiple Sourcing of Imported Intermediate Inputs</title>
+      <link>https://rtbrt7.github.io/project/project3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rtbrt7.github.io/project/project3/</guid>
+      <description>&lt;p&gt;This is a &lt;span style=&#34;color:#D4AF37&#34;&gt;&lt;strong&gt;work in progress&lt;/strong&gt;&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;We are exploring why do manufacturing firms import intermediate inputs from multiple suppliers (even when the quality of the imported inputs remains the same)? Are they optimizing the hold-up problem, or are they diversifying risk? Is it dependent on the type of inputs they are importing? We found strong evidence of (product dependent) multiple sourcing even for small single-product firms from the Chinese Customs Data.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

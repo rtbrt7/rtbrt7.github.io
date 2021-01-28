@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Ritabrata Bose</title>
+    <link>https://rtbrt7.github.io/tag/machine-learning/</link>
+      <atom:link href="https://rtbrt7.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ritabrata Bose. All rights reserved.</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rtbrt7.github.io/images/icon_hub4823ec27bc1bc411163cc9340aafb5f_11301_512x512_fill_lanczos_center_2.png</url>
+      <title>Machine Learning</title>
+      <link>https://rtbrt7.github.io/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>The Compliance Costs of Non-Tariff Measures: Measurement, Theory, and Policy</title>
+      <link>https://rtbrt7.github.io/publication/project1/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://rtbrt7.github.io/publication/project1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monetary Policy Statements and Government Securities cycle</title>
+      <link>https://rtbrt7.github.io/project/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rtbrt7.github.io/project/project1/</guid>
+      <description>&lt;p&gt;This is a &lt;span style=&#34;color:#D4AF37&#34;&gt;&lt;strong&gt;work in progress&lt;/strong&gt;&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;We are exploring whether monetary policy statements (sentiment analysis using BERT transformer) could move government securities (G-secs) rate with less open market operations. Indian policy rates had not remained low commensurately with the United States interest rates post-global financial crisis. The fact that India’s G-secs rate is not falling as expected remains an open puzzle that we are actively trying to solve.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
